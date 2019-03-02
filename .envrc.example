@@ -1,0 +1,5 @@
+# direnv python virtual environment
+layout python
+
+# slack api token
+export SLACK_API_TOKEN=""
